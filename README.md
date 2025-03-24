@@ -6,4 +6,5 @@
 
 #
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jimmetrix&show_icons=true&theme=)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jimmetrix&layout=compact&theme=)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jimmetrix&layout=normal&theme=)
