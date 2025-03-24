@@ -1,6 +1,3 @@
-<!---Hi, I’m @jimmetrix--->
-<!---I’m interested in Web development--->
-<!---I’m currently learning HTML+CSS--->
 # Hi, I'm Sarmad Allawi
 - I'm mainly a Front-End devoloper specializing in React.
 - I build beautiful and responsive websites.
