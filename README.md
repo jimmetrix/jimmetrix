@@ -5,5 +5,5 @@
 - I have an art and design background and apply my skills into my web development work.
 
 #
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jimmetrix&show_icons=true&theme=transparent)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jimmetrix&layout=compact&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jimmetrix&show_icons=true&theme=)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jimmetrix&layout=compact&theme=)
