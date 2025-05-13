@@ -6,6 +6,9 @@
 - I'm also a linux wizard and have extensive experience in operating servers both on bare-metal and the cloud.
 
 #
-|![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jimmetrix&show_icons=true&theme=)|![GitHub Streak](https://streak-stats.demolab.com?user=jimmetrix&card_width=420)
-|------------|------------|
+# Programming Languages
+#
+[![My Skills](https://skillicons.dev/icons?i=cpp,js,lua,py,ts)](https://skillicons.dev)
+<p align="center">![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jimmetrix&show_icons=true&theme=)</p>
+
 
