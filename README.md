@@ -18,6 +18,16 @@
 ## Tools & Software
 [![My Skills](https://skillicons.dev/icons?i=bash,powershell,vim,neovim,vscode,ps,ai,blender,figma)](https://skillicons.dev)
 #
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jimmetrix&show_icons=true&theme=)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jimmetrix)](https://git.io/streak-stats)
+<section>
+    <table>
+        <tr>
+            <td>
+                ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jimmetrix&show_icons=true&theme=)
+            </td>
+            <td>
+                [![GitHub Streak](https://streak-stats.demolab.com/?user=jimmetrix)](https://git.io/streak-stats)
+            </td>
+        </tr>
+    </table>
+</section>
 
