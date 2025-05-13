@@ -5,18 +5,19 @@
 - I have an art and design background and apply my skills into my web development work.
 - I'm also a linux wizard and have extensive experience in operating servers both on bare-metal and the cloud.
 
-#
-# Programming Languages
+
+## Programming Languages
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,py,js,ts,lua)](https://skillicons.dev)
-# Web Technologies
+## Web Technologies
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,html,css)](https://skillicons.dev)
-# Cloud & Infrastructure
+## Cloud & Infrastructure
 [![My Skills](https://skillicons.dev/icons?i=aws,cloudflare,workers)](https://skillicons.dev)
-# Operating Systems
+## Operating Systems
 [![My Skills](https://skillicons.dev/icons?i=linux,arch,nix,windows)](https://skillicons.dev)
-# Tools & Software
+## Tools & Software
 [![My Skills](https://skillicons.dev/icons?i=bash,powershell,vim,neovim,vscode,ps,ai,blender,figma)](https://skillicons.dev)
+#
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jimmetrix&show_icons=true&theme=)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jimmetrix)](https://git.io/streak-stats)
 
