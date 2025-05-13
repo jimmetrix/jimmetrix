@@ -6,6 +6,6 @@
 - I'm also a linux wizard and have extensive experience in operating servers both on bare-metal and the cloud.
 
 #
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jimmetrix&show_icons=true&theme=)
+|![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jimmetrix&show_icons=true&theme=)|![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jimmetrix&layout=normal&theme=)|
+|------------|------------|
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jimmetrix&layout=normal&theme=)
