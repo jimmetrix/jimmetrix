@@ -7,8 +7,16 @@
 
 #
 # Programming Languages
-#
-[![My Skills](https://skillicons.dev/icons?i=cpp,js,lua,py,ts)](https://skillicons.dev)
-<p align="center">![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jimmetrix&show_icons=true&theme=)</p>
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,py,js,ts,lua)](https://skillicons.dev)
+# Web Technologies
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,html,css)](https://skillicons.dev)
+# Cloud & Infrastructure
+[![My Skills](https://skillicons.dev/icons?i=aws,cloudflare,workers)](https://skillicons.dev)
+# Operating Systems
+[![My Skills](https://skillicons.dev/icons?i=linux,arch,nix,windows)](https://skillicons.dev)
+# Tools & Software
+[![My Skills](https://skillicons.dev/icons?i=bash,powershell,vim,neovim,vscode,ps,ai,blender,figma)](https://skillicons.dev)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jimmetrix&show_icons=true&theme=)
 
 
