@@ -22,10 +22,10 @@
     <table>
         <tr>
             <td>
-                ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jimmetrix&show_icons=true&theme=)
+                <img src="https://github-readme-stats.vercel.app/api?username=jimmetrix&show_icons=true&hide_border=true" alt="Github Stats" title="Github Stats">
             </td>
             <td>
-                [![GitHub Streak](https://streak-stats.demolab.com/?user=jimmetrix)](https://git.io/streak-stats)
+                <img src="https://streak-stats.demolab.com/?user=jimmetrix&hide_border=true" alt="Github Streak" title="Github Streak">
             </td>
         </tr>
     </table>
