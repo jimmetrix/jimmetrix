@@ -1,5 +1,5 @@
 # Hi, I'm Sarmad Allawi
-- I'm a Web Developer specializing in React.
+- I'm a Web Developer specializing in React and Nextjs.
 - I build beautiful and responsive websites.
 - I will also design logos and create visual identities and related material.
 - I have an art and design background and apply my skills into my web development work.
