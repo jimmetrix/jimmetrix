@@ -28,6 +28,9 @@
                 <img src="https://streak-stats.demolab.com/?user=jimmetrix&hide_border=true" alt="Github Streak" title="Github Streak">
             </td>
         </tr>
+        <tr>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimmetrix&layout=donut-vertical" alt="Top Languages" title="Top Languages">
+        </tr>
     </table>
 </section>
 
