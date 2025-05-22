@@ -29,10 +29,10 @@
             </td>
         </tr>
         <tr>
-            <td>
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimmetrix&layout=donut-vertical" alt="Top Languages" title="Top Languages">
-            </td>
         </tr>
     </table>
+        <div align="center">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimmetrix&layout=donut-vertical" alt="Top Languages" title="Top Languages">
+        </div>
 </section>
 
