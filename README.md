@@ -1,9 +1,10 @@
 # Hi, I'm Sarmad Allawi
 - I'm a Web Developer specializing in React and Nextjs.
-- I build beautiful, and responsive websites with a focus on accessibility and best practices.
-- I will also design logos and create visual identities and related graphical material.
+- I build beautiful, fast, and responsive websites with a focus on accessibility and best practices.
+- I also design logos and create visual identities and related graphical material.
 - I have an art and design background and apply my skills into my web development work.
 - I'm experienced in operating on linux systems both on the desktop and the server.
+- Big fan of all things open source.
 <!-- - I'm also a linux wizard and have extensive experience in operating servers both on bare-metal and the cloud. -->
 
 ## Programming Languages
